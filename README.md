@@ -21,6 +21,12 @@
   <img alt="STM32 CubeMX" src="https://img.shields.io/badge/-STM32_CubeMX-00AAE7?style=flat-square&logo=stmicroelectronics&logoColor=white" />
   <img alt="Proteus" src="https://img.shields.io/badge/-Proteus-1B72BE?style=flat-square&logo=proteus&logoColor=white" />
   <img alt="Autodesk Eagle" src="https://img.shields.io/badge/-Autodesk_Eagle-0696D7?style=flat-square&logo=autodesk&logoColor=white" />
+  <img alt="OOP" src="https://img.shields.io/badge/-OOP-009688?style=flat-square&logo=objectorientedprogramming&logoColor=white" />
+  <img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" />
+  <img alt="Qt Creator" src="https://img.shields.io/badge/-Qt_Creator-41CD52?style=flat-square&logo=qt&logoColor=white" />
+  <img alt="NFC" src="https://img.shields.io/badge/-NFC-0082FC?style=flat-square&logo=nfc&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 
 </p>
 
