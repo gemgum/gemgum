@@ -12,6 +12,8 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Gorm" src="https://img.shields.io/badge/-Gorm-3776AB?style=flat-square&logo=go&logoColor=white" />
   <img alt="Excelize" src="https://img.shields.io/badge/-Excelize-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-222222?style=flat-square&logo=gitlab&logoColor=white" />
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
