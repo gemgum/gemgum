@@ -13,3 +13,6 @@
   <img alt="Gorm" src="https://img.shields.io/badge/-Gorm-3776AB?style=flat-square&logo=go&logoColor=white" />
   <img alt="Excelize" src="https://img.shields.io/badge/-Excelize-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
