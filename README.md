@@ -2,9 +2,10 @@
 
 I am a Software Engineer. Here's a bit more about me:
 
-- 🌱 I’m currently learning **Technology and Robotics Enthusiasts**
+- 🌱 I’m currently exploring **Technology and Robotics Enthusiasts**
 - 💬 Ask me about:
-<p>
+
+<p align="center">
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -32,11 +33,11 @@ I am a Software Engineer. Here's a bit more about me:
   <img alt="NFC" src="https://img.shields.io/badge/-NFC-0082FC?style=flat-square&logo=nfc&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-
 </p>
 
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 How to reach me: **[anggipamboedi@gmail.com](mailto:anggipamboedi@gmail.com)**
 - 😄 Pronouns: **he/him**
+
   
 <div align="center">
 
