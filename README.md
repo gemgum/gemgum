@@ -14,6 +14,14 @@
   <img alt="Excelize" src="https://img.shields.io/badge/-Excelize-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-222222?style=flat-square&logo=gitlab&logoColor=white" />
+  <img alt="ATmega" src="https://img.shields.io/badge/-ATmega-0082FC?style=flat-square&logo=atmel&logoColor=white" />
+  <img alt="CVAVR" src="https://img.shields.io/badge/-CVAVR-EE2C2C?style=flat-square&logo=c&logoColor=white" />
+  <img alt="STM32" src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+  <img alt="Keil v5" src="https://img.shields.io/badge/-Keil_v5-007396?style=flat-square&logo=arm&logoColor=white" />
+  <img alt="STM32 CubeMX" src="https://img.shields.io/badge/-STM32_CubeMX-00AAE7?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+  <img alt="Proteus" src="https://img.shields.io/badge/-Proteus-1B72BE?style=flat-square&logo=proteus&logoColor=white" />
+  <img alt="Autodesk Eagle" src="https://img.shields.io/badge/-Autodesk_Eagle-0696D7?style=flat-square&logo=autodesk&logoColor=white" />
+
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
