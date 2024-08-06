@@ -1,8 +1,8 @@
 ### Hi there, I'm Anggi Eko Pambudi 👋
 
-I am a Software Engineer. Here's a bit more about me:
+I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
 
-- 🌱 I’m currently exploring **Technology and Robotics Enthusiasts**
+- 🌱 I’m currently learning **Advanced Golang and Cloud Technologies**
 - 💬 Ask me about:
 
 <p align="center">
