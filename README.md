@@ -1,4 +1,9 @@
-<h3>When I code, I rely on</h3>
+### Hi there, I'm Anggi Eko Pambudi 👋
+
+I am a Software Engineer. Here's a bit more about me:
+
+- 🌱 I’m currently learning **Technology and Robotics Enthusiasts**
+- 💬 Ask me about:
 <p>
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
@@ -30,6 +35,9 @@
 
 </p>
 
+- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 😄 Pronouns: **he/him**
+  
 <div align="center">
 
   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gemgum&hide_border=true&show_icons=true&bg_color=00000000&title_color=00ADD8&icon_color=00ADD8&text_bold=false&text_color=00ADD8)
