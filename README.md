@@ -30,6 +30,6 @@
 
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=default&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true&background=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=transparent&ring=F05032&fire=F05032&currStreakNum=F05032&currStreakLabel=F05032&hide_border=true)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gemgum&hide_border=true&show_icons=true&bg_color=00000000&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gemgum&hide_border=true&show_icons=true&bg_color=00000000&title_color=F05032&icon_color=F05032&text_bold=false&text_color=9e9e9e)
