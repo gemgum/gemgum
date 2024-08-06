@@ -43,6 +43,6 @@ I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
 
   ![Geggum GitHub stats](https://github-readme-stats.vercel.app/api?username=gemgum&hide_border=true&show_icons=true&bg_color=00000000&title_color=00ADD8&icon_color=00ADD8&text_bold=false&text_color=00ADD8)
 
-  ![Gemgum GitHub stats](https://github-readme-stats.vercel.app/api?username=gemgum&show_icons=true&theme=radical)
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gemgum&hide_border=true&show_icons=true&bg_color=00000000&title_color=00ADD8&icon_color=00ADD8&text_bold=false&text_color=00ADD8)
 
 </div>
