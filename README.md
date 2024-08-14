@@ -3,6 +3,8 @@
 I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
 
 - 🌱 I’m currently learning **Advanced Golang and Cloud Technologies**
+- 📫 How to reach me: **[anggipamboedi@gmail.com](mailto:anggipamboedi@gmail.com)**
+- 😄 Pronouns: **he/him**
 - 💬 Ask me about:
 <p align="center">
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -32,11 +34,9 @@ I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
   <img alt="NFC" src="https://img.shields.io/badge/-NFC-0082FC?style=flat-square&logo=nfc&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</p>                                                                                                                                                                                                                        |
+</p>                                                                                                                                                                                            
+---
 
-- 📫 How to reach me: **[anggipamboedi@gmail.com](mailto:anggipamboedi@gmail.com)**
-- 😄 Pronouns: **he/him**
-  
 <div align="center">
 
   ![Gemgum GitHub stats](https://github-readme-stats.vercel.app/api?username=gemgum&show_icons=true&bg_color=00000000&title_color=00ADD8&icon_color=00ADD8&text_bold=true&text_color=00ADD8&disable_animations=true&border_radius=10&border_color=808080)
