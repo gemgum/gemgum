@@ -47,7 +47,7 @@ I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
     </td>
     <td align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemgum&hide=html&bg_color=00000000&title_color=00ADD8&text_color=00ADD8&disable_animations=true&border_radius=50&border_color=808080" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemgum&hide=html&bg_color=00000000&title_color=00ADD8&text_color=00ADD8&disable_animations=true&border_radius=10&border_color=808080" alt="Top Languages">
       </a>
     </td>
   </tr>
