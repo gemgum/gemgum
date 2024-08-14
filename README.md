@@ -5,7 +5,8 @@ I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
 - 🌱 I’m currently learning **Advanced Golang and Cloud Technologies**
 - 💬 Ask me about:
 | **Category**                     | **Technologies**
-|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+
+|----------------------------------|-------------------|
 | **Programming Languages**        | ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OOP](https://img.shields.io/badge/-OOP-009688?style=flat-square&logo=objectorientedprogramming&logoColor=white)        |
 | **Development Tools & Environments** | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white) ![Qt Creator](https://img.shields.io/badge/-Qt_Creator-41CD52?style=flat-square&logo=qt&logoColor=white)|
 | **DevOps, CI/CD & Automation**   | ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-222222?style=flat-square&logo=gitlab&logoColor=white)|
