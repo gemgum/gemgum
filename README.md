@@ -46,7 +46,7 @@ I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
       <img src="https://github-readme-stats.vercel.app/api?username=gemgum&show_icons=true&bg_color=00000000&title_color=00ADD8&icon_color=00ADD8&text_bold=true&text_color=00ADD8&disable_animations=true&border_radius=10&border_color=808080" alt="Gemgum GitHub stats" width="400">
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&title_color=00ADD8&text_color=00ADD8&disable_animations=true&border_radius=10&border_color=808080" alt="Top Languages" width="250">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&title_color=00ADD8&text_color=00ADD8&disable_animations=true&border_radius=10&border_color=808080" alt="Top Languages" width="350">
     </td>
   </tr>
 </table>
