@@ -1,5 +1,6 @@
 ![Alt text](https://github.com/gemgum/gemgum/blob/main/image.png "hello")
 
+#
 ## About Me
 I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
 
