@@ -18,8 +18,8 @@ I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
       </td>
     </tr>
     <tr>
-      <td>
-        <td>Database : </td>
+     <td>Database : </td>
+     <td>
         <img src="https://img.shields.io/badge/-SQLite-267399?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite Logo"> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Logo">
       </td>
     </tr>
