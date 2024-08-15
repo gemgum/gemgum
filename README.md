@@ -10,8 +10,8 @@ I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
 <table>
   <tbody>
     <tr>
-      <td>
-        <td>Programming Language : </td>
+      <td>Programming Language : </td>
+      <td>        
         <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C Logo"> 
         <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ Logo"> 
         <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang Logo">
@@ -24,8 +24,8 @@ I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
       </td>
     </tr>
     <tr>
+      <td>Technology : </td>
       <td>
-        <td>Technology : </td>
         <img src="https://img.shields.io/badge/-OpenAPI-85EA2D?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI Logo"> 
         <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Logo"> 
         <img src="https://img.shields.io/badge/-Git-F0503C?style=flat-square&logo=git&logoColor=white" alt="Git Logo"> <img src="https://img.shields.io/badge/-GitHub-1280BA?style=flat-square&logo=github&logoColor=white" alt="GitHub Logo"> 
@@ -35,21 +35,21 @@ I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
       </td>
     </tr>
     <tr>
+      <td>Microcontroller : </td>
       <td>
-        <td>Microcontroller : </td>
         <img src="https://img.shields.io/badge/-ATmega-0082FC?style=flat-square&logo=atmel&logoColor=white" alt="ATmega Logo"> 
         <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32 Logo"> 
         <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino Logo">
       </td>
     </tr>
     <tr>
+      <td>3D Design : </td>
       <td>
-        <td>3D Design : </td>
         <img src="https://img.shields.io/badge/-Autodesk_Inventor-F39C12?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Inventor Logo"> </td>
     </tr>
     <tr>
-      <td>
-        <td>Algorithm : </td>
+     <td>Algorithm : </td>
+     <td>
         <img src="https://img.shields.io/badge/-Clean_Architecture-43A047?style=flat-square&logo=softwareengineering&logoColor=white" alt="Clean Architecture Logo"> <img src="https://img.shields.io/badge/-OOP-009688?style=flat-square&logo=objectorientedprogramming&logoColor=white" alt="OOP Logo">
       </td>
     </tr>
