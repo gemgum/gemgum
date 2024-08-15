@@ -1,4 +1,4 @@
-<img src="https://github.com/gemgum/gemgum/edit/main/hello.png" alt="Alt text" title="Optional title">
+<img src="github.com/gemgum/gemgum/edit/main/hello.png" alt="Alt text" title="hello">
 
 I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
 
