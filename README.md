@@ -1,4 +1,4 @@
-### Hi there, I'm Anggi Eko Pambudi 👋
+<img src="https://github.com/gemgum/gemgum/edit/main/hello.png" alt="Alt text" title="Optional title">
 
 I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
 
