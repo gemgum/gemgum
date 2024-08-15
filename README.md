@@ -36,6 +36,119 @@ I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>                                                                                                                                                                                            
 
+
+<table>
+  <thead>
+    <tr>
+      <th>Kategori</th>
+      <th>Teknologi</th>
+      <th>Logo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bahasa Pemrograman</td>
+      <td>Golang</td>
+      <td><img src="images/golang.svg" alt="Golang Logo"></td>
+    </tr>
+    <tr>
+      <td>Bahasa Pemrograman</td>
+      <td>C</td>
+      <td><img src="images/c.svg" alt="C Logo"></td>
+    </tr>
+    <tr>
+      <td>Bahasa Pemrograman</td>
+      <td>C++</td>
+      <td><img src="images/cplusplus.svg" alt="C++ Logo"></td>
+    </tr>
+    <tr>
+      <td>Technology</td>
+      <td>Docker</td>
+      <td><img src="images/docker.svg" alt="Docker Logo"></td>
+    </tr>
+    <tr>
+      <td>Technology</td>
+      <td>JWT (JSON Web Token)</td>
+      <td><img src="images/jwt.svg" alt="JWT Logo"></td>
+    </tr>
+    <tr>
+      <td>Technology</td>
+      <td>Arduino</td>
+      <td><img src="images/arduino.svg" alt="Arduino Logo"></td>
+    </tr>
+    <tr>
+      <td>Technology</td>
+      <td>OpenAPI</td>
+      <td><img src="images/openapi.svg" alt="OpenAPI Logo"></td>
+    </tr>
+    <tr>
+      <td>Technology</td>
+      <td>AWS</td>
+      <td><img src="images/aws.svg" alt="AWS Logo"></td>
+    </tr>
+    <tr>
+      <td>Technology</td>
+      <td>Cloudinary</td>
+      <td><img src="images/cloudinary.svg" alt="Cloudinary Logo"></td>
+    </tr>
+    <tr>
+      <td>Database</td>
+      <td>PostgreSQL</td>
+      <td><img src="images/postgresql.svg" alt="PostgreSQL Logo"></td>
+    </tr>
+    <tr>
+      <td>Technology</td>
+      <td>Gorm</td>
+      <td><img src="images/go.svg" alt="Gorm Logo (Go)"></td> </tr>
+    <tr>
+      <td>Technology</td>
+      <td>Excelize</td>
+      <td><img src="images/excel.svg" alt="Excelize Logo (Microsoft Excel)"></td> </tr>
+    <tr>
+      <td>Technology</td>
+      <td>GitHub Actions</td>
+      <td><img src="images/githubactions.svg" alt="GitHub Actions Logo"></td>
+    </tr>
+    <tr>
+      <td>Technology</td>
+      <td>CI/CD</td>
+      <td><img src="images/gitlab.svg" alt="GitLab Logo (CI/CD)"></td> </tr>
+    <tr>
+      <td>Mikrokontroler</td>
+      <td>ATmega</td>
+      <td><img src="images/atmel.svg" alt="Atmel Logo (ATmega)"></td> </tr>
+    <tr>
+      <td>Mikrokontroler</td>
+      <td>CVAVR</td>
+      <td><img src="images/c.svg" alt="C Logo (CVAVR)"></td> </tr>
+    <tr>
+      <td>Mikrokontroler</td>
+      <td>STM32</td>
+      <td><img src="images/stmicroelectronics.svg" alt="STMicroelectronics Logo (STM32)"></td> </tr>
+    <tr>
+      <td>Technology</td>
+      <td>Keil v5</td>
+      <td><img src="images/arm.svg" alt="ARM Logo (Keil v5)"></td> </tr>
+    <tr>
+      <td>Technology</td>
+      <td>STM32 CubeMX</td>
+      <td><img src="images/stmicroelectronics.svg" alt="STMicroelectronics Logo (STM32 CubeMX)"></td> </tr>
+    <tr>
+      <td>Technology</td>
+      <td>Proteus</td>
+      <td><img src="images/proteus.svg" alt="Proteus Logo"></td>
+    </tr>
+    <tr>
+      <td>Technology</td>
+      <td>Autodesk Eagle</td>
+      <td><img src="images/autodesk.svg" alt="Autodesk Logo (Autodesk Eagle)"></td> </tr>
+    <tr>
+      <td>Algorithm</td>
+      <td>Clean Architecture</td>
+      <td></td>
+    </tr>
+    <tr>
+      
 ## Rating Programming Languge
 ## Rating Programming Language
 
