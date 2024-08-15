@@ -11,46 +11,50 @@ I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
   <tbody>
     <tr>
       <td>
-        **Bahasa Pemrograman:** 
-        <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C Logo"> 
-        <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ Logo"> 
+        ### Bahasa Pemrograman:
+        <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C Logo"> 
+        <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ Logo"> 
         <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang Logo">
       </td>
     </tr>
     <tr>
       <td>
-        **Database:** 
+        ### Database: 
         <img src="https://img.shields.io/badge/-SQLite-267399?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite Logo"> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Logo">
       </td>
     </tr>
     <tr>
       <td>
-        **Technology:**  
-        <img src="https://img.shields.io/badge/-OpenAPI-85EA2D?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI Logo"> 
-        <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Logo"> 
-        <img src="https://img.shields.io/badge/-Git-F0503C?style=flat-square&logo=git&logoColor=white" alt="Git Logo"> <img src="https://img.shields.io/badge/-GitHub-1280BA?style=flat-square&logo=github&logoColor=white" alt="GitHub Logo"> 
-        <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions Logo"> 
-        <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Logo"> 
+        ### Technology:
+        <img src="https://img.shields.io/badge/-OpenAPI-85EA2D?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI Logo"> 
+        <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Logo"> 
+        <img src="https://img.shields.io/badge/-Git-F0503C?style=flat-square&logo=git&logoColor=white" alt="Git Logo"> <img src="https://img.shields.io/badge/-GitHub-1280BA?style=flat-square&logo=github&logoColor=white" alt="GitHub Logo"> 
+        <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions Logo"> 
+        <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Logo"> 
         <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" alt="Docker Logo">
       </td>
     </tr>
     <tr>
       <td>
-        **Mikrokontroler:** 
-        <img src="https://img.shields.io/badge/-ATmega-0082FC?style=flat-square&logo=atmel&logoColor=white" alt="ATmega Logo"> 
-        <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32 Logo"> 
+        ### Mikrokontroler:
+        <img src="https://img.shields.io/badge/-ATmega-0082FC?style=flat-square&logo=atmel&logoColor=white" alt="ATmega Logo"> 
+        <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32 Logo"> 
         <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino Logo">
       </td>
     </tr>
     <tr>
       <td>
-        **3D Design:** 
+        ### 3D Design: 
         <img src="https://img.shields.io/badge/-Autodesk_Inventor-F39C12?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Inventor Logo"> </td>
     </tr>
     <tr>
       <td>
-        **Algorithm:** 
-        <img src="https://img.shields.io/badge/-Clean_Architecture-43A047?style=flat-square&logo=softwareengineering&logoColor=white" alt="Clean Architecture Logo"> <img src="https://img.shields.io/badge/-OOP-009688?style=flat-square&logo=objectorientedprogramming&logoColor=white" alt
+        ### Algorithm:
+        <img src="https://img.shields.io/badge/-Clean_Architecture-43A047?style=flat-square&logo=softwareengineering&logoColor=white" alt="Clean Architecture Logo"> <img src="https://img.shields.io/badge/-OOP-009688?style=flat-square&logo=objectorientedprogramming&logoColor=white" alt="OOP Logo">
+      </td>
+    </tr>
+  </tbody>
+</table>
                                                                                                                                                                                                                                                                                                                                             
                                                                                                                                                                        
                                                                                                                                                                        
