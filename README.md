@@ -1,4 +1,4 @@
-![Alt text](https://github.com/gemgum/gemgum/edit/main/hello.png "hello")
+![Alt text](https://github.com/gemgum/gemgum/blob/main/hello.png "hello")
 
 I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
 
