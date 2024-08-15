@@ -37,119 +37,52 @@ I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
 </p>                                                                                                                                                                                            
 
 
+<p>**Keahlian:**</p>
+
 <table>
-  <thead>
-    <tr>
-      <th>Kategori</th>
-      <th>Teknologi</th>
-      <th>Logo</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td>Bahasa Pemrograman</td>
-      <td>Golang</td>
-      <td><img src="images/golang.svg" alt="Golang Logo"></td>
+      <td>
+        **Bahasa Pemrograman:** 
+        <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C Logo"> 
+        <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ Logo"> 
+        <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang Logo">
+      </td>
     </tr>
     <tr>
-      <td>Bahasa Pemrograman</td>
-      <td>C</td>
-      <td><img src="images/c.svg" alt="C Logo"></td>
+      <td>
+        **Database:** 
+        <img src="https://img.shields.io/badge/-SQLite-267399?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite Logo"> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Logo">
+      </td>
     </tr>
     <tr>
-      <td>Bahasa Pemrograman</td>
-      <td>C++</td>
-      <td><img src="images/cplusplus.svg" alt="C++ Logo"></td>
+      <td>
+        **Technology:**  
+        <img src="https://img.shields.io/badge/-OpenAPI-85EA2D?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI Logo"> 
+        <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Logo"> 
+        <img src="https://img.shields.io/badge/-Git-F0503C?style=flat-square&logo=git&logoColor=white" alt="Git Logo"> <img src="https://img.shields.io/badge/-GitHub-1280BA?style=flat-square&logo=github&logoColor=white" alt="GitHub Logo"> 
+        <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions Logo"> 
+        <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Logo"> 
+        <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" alt="Docker Logo">
+      </td>
     </tr>
     <tr>
-      <td>Technology</td>
-      <td>Docker</td>
-      <td><img src="images/docker.svg" alt="Docker Logo"></td>
+      <td>
+        **Mikrokontroler:** 
+        <img src="https://img.shields.io/badge/-ATmega-0082FC?style=flat-square&logo=atmel&logoColor=white" alt="ATmega Logo"> 
+        <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32 Logo"> 
+        <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino Logo">
+      </td>
     </tr>
     <tr>
-      <td>Technology</td>
-      <td>JWT (JSON Web Token)</td>
-      <td><img src="images/jwt.svg" alt="JWT Logo"></td>
+      <td>
+        **3D Design:** 
+        <img src="https://img.shields.io/badge/-Autodesk_Inventor-F39C12?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Inventor Logo"> </td>
     </tr>
     <tr>
-      <td>Technology</td>
-      <td>Arduino</td>
-      <td><img src="images/arduino.svg" alt="Arduino Logo"></td>
-    </tr>
-    <tr>
-      <td>Technology</td>
-      <td>OpenAPI</td>
-      <td><img src="images/openapi.svg" alt="OpenAPI Logo"></td>
-    </tr>
-    <tr>
-      <td>Technology</td>
-      <td>AWS</td>
-      <td><img src="images/aws.svg" alt="AWS Logo"></td>
-    </tr>
-    <tr>
-      <td>Technology</td>
-      <td>Cloudinary</td>
-      <td><img src="images/cloudinary.svg" alt="Cloudinary Logo"></td>
-    </tr>
-    <tr>
-      <td>Database</td>
-      <td>PostgreSQL</td>
-      <td><img src="images/postgresql.svg" alt="PostgreSQL Logo"></td>
-    </tr>
-    <tr>
-      <td>Technology</td>
-      <td>Gorm</td>
-      <td><img src="images/go.svg" alt="Gorm Logo (Go)"></td> </tr>
-    <tr>
-      <td>Technology</td>
-      <td>Excelize</td>
-      <td><img src="images/excel.svg" alt="Excelize Logo (Microsoft Excel)"></td> </tr>
-    <tr>
-      <td>Technology</td>
-      <td>GitHub Actions</td>
-      <td><img src="images/githubactions.svg" alt="GitHub Actions Logo"></td>
-    </tr>
-    <tr>
-      <td>Technology</td>
-      <td>CI/CD</td>
-      <td><img src="images/gitlab.svg" alt="GitLab Logo (CI/CD)"></td> </tr>
-    <tr>
-      <td>Mikrokontroler</td>
-      <td>ATmega</td>
-      <td><img src="images/atmel.svg" alt="Atmel Logo (ATmega)"></td> </tr>
-    <tr>
-      <td>Mikrokontroler</td>
-      <td>CVAVR</td>
-      <td><img src="images/c.svg" alt="C Logo (CVAVR)"></td> </tr>
-    <tr>
-      <td>Mikrokontroler</td>
-      <td>STM32</td>
-      <td><img src="images/stmicroelectronics.svg" alt="STMicroelectronics Logo (STM32)"></td> </tr>
-    <tr>
-      <td>Technology</td>
-      <td>Keil v5</td>
-      <td><img src="images/arm.svg" alt="ARM Logo (Keil v5)"></td> </tr>
-    <tr>
-      <td>Technology</td>
-      <td>STM32 CubeMX</td>
-      <td><img src="images/stmicroelectronics.svg" alt="STMicroelectronics Logo (STM32 CubeMX)"></td> </tr>
-    <tr>
-      <td>Technology</td>
-      <td>Proteus</td>
-      <td><img src="images/proteus.svg" alt="Proteus Logo"></td>
-    </tr>
-    <tr>
-      <td>Technology</td>
-      <td>Autodesk Eagle</td>
-      <td><img src="images/autodesk.svg" alt="Autodesk Logo (Autodesk Eagle)"></td> </tr>
-    <tr>
-      <td>Algorithm</td>
-      <td>Clean Architecture</td>
-      <td></td>
-    </tr>
-    <tr>
-      
-## Rating Programming Languge
+      <td>
+        **Algorithm:** 
+        <img src="https://img.shields.io/badge/-Clean_Architecture-43A047?style=flat-square&logo=softwareengineering&logoColor=white" alt="Clean Architecture Logo"> <img src="https://img.shields.io/badge/-OOP-009688?style=flat-square&logo=objectorientedprogramming&logoColor=white" alt
 ## Rating Programming Language
 
 <table align="center">
