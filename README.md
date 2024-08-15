@@ -4,9 +4,9 @@
 ## About Me
 I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
 
-- 🌱 I’m currently learning **Advanced Golang and Cloud Technologies**
+- 😄 "just someone who likes to do logical things, meaning coding"
+- 🌱 I’m currently learning **Golang and Cloud Technologies**
 - 📫 How to reach me: **[anggipamboedi@gmail.com](mailto:anggipamboedi@gmail.com)**
-- 😄 Pronouns: **he/him**
 
 ## Skills
 <table>
