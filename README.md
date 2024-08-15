@@ -6,7 +6,7 @@ I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
 - 📫 How to reach me: **[anggipamboedi@gmail.com](mailto:anggipamboedi@gmail.com)**
 - 😄 Pronouns: **he/him**
 
-## Currentl(and future) Learning
+## Skills
 <table>
   <tbody>
     <tr>
@@ -60,12 +60,12 @@ I am a Technology and Robotics Enthusiasts. Here's a bit more about me:
                                                                                                                                                                        
 ## Rating Programming Language
 
-<table align="center">
+<table align="left">
   <tr>
-    <td align="center">
+    <td align="left">
       <img src="https://github-readme-stats.vercel.app/api?username=gemgum&show_icons=true&bg_color=00000000&title_color=00ADD8&icon_color=00ADD8&text_bold=true&text_color=00ADD8&disable_animations=true&border_radius=10&border_color=808080" alt="Gemgum GitHub stats" width="400">
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemgum&layout=compact&bg_color=00000000&title_color=00ADD8&text_color=00ADD8&disable_animations=true&border_radius=10&border_color=808080" alt="Top Languages" width="300">
     </td>
   </tr>
